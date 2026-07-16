@@ -38,9 +38,6 @@ README.md
    ```
    java Shopping
    ```
-## Output
-![Shopping Cart Output]
-output.jpeg
 
 ## 📚 Learning Outcomes
 
