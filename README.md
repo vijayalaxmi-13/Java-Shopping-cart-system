@@ -40,7 +40,7 @@ README.md
    ```
 ## Output
 ![Shopping Cart Output]
-(output.jpeg)
+output.jpeg
 
 ## 📚 Learning Outcomes
 
